@@ -1,24 +1,20 @@
-# README
+# odin-rails-kittens
+## The Odin Project - Flickr API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Create a simple photo widget that allows you to display photos from your Flickr feed.
 
-Things you may want to cover:
+## Languages/Technologies used:
+ - Rails 
+ - Ruby
+ - VS Code
+ - Git/Github
 
-* Ruby version
+## What I learned:
+ - 
+ 
+## Still can improve:
+ - 
 
-* System dependencies
+Assignment - https://www.theodinproject.com/lessons/ruby-on-rails-kittens-api
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+View Project  - did not deploy
