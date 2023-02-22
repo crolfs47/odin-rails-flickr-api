@@ -1,4 +1,4 @@
-# odin-rails-kittens
+# odin-rails-flickr-api
 ## The Odin Project - Flickr API
 
 Create a simple photo widget that allows you to display photos from your Flickr feed.
